@@ -5,9 +5,9 @@ This Solidity program is a simple Solidity Contract activity where we create a s
 ## Description
 
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract creates a token with specific details (Token Name, Token Abbrv., Total Supply). Moreover, the contract allows us to perform the following:
-- Mint a token
+- Mint tokens for an address
 - Check the token balance of an address
-- Burn tokens for an address
+- Burn tokens of an address
 
 ## Getting Started
 
